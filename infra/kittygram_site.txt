@@ -1,5 +1,5 @@
 IP: 130.193.43.152;
-name_taski: https://https://taski.ddnsking.com/;
-name_kittygram: https://https://kittygram.ddnsking.com/;
+name_taski: https://https://taski.ddnsking.com;
+name_kittygram: https://https://kittygram.ddnsking.com;
 login: admin;
 password: admin;
